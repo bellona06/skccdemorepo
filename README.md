@@ -7,6 +7,4 @@ SK Demo Repository
 
 ```
 apt-get update -t
-2tst
-3sdf
 ```
